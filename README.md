@@ -15,4 +15,4 @@ The neural network consists of a single hidden layer and uses the sigmoid activa
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chasu56/neural-network-from-scratch.git
+git clone https://github.com/chasu56/neuralnetwork.git
